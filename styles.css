@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(250, 229, 229);
+    margin: 0em;
+}
+#container{
+    width: 100%;
+    height:100%;
+}
+
+#Welcome{
+    background-color: rgb(133, 110, 110);
+display: flex;
+justify-content: center;
+align-items: center;
+height: 50vh;
+}
+
+.lower-info{
+background-color: black;
+height: 50vh;
+color: blanchedalmond ;
+display:flex;
+justify-content: space-around;
+}
+.box{
+    width: 25%;
+    padding-top: 45px;
+    text-align: center;
+}
+#left{
+    background-color: blue;
+    height: 20px;
+}
+#middle{
+    background-color: blueviolet;
+    height: 20px;
+    
+}
+#right{
+    background-color: crimson;
+    height: 20px;
+}
+
